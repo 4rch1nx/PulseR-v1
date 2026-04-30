@@ -19,6 +19,10 @@
 // void loop() {
 // }
 
+
+#define PROC_CON_1 8
+#define PROC_CON_2 9
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 /*
