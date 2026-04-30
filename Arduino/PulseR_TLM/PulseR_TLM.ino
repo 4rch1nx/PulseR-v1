@@ -12,6 +12,9 @@
 #define LED_G 6
 #define LED_B 7
 
+#define PROC_CON_1 3
+#define PROC_CON_2 8
+
 uint8_t TeamID = 0xFF;
 uint8_t pktId = 0;
 File logFileTLM;
