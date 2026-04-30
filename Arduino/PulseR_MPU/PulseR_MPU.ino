@@ -16,6 +16,9 @@
 #define LED_G 9
 #define LED_B 10
 
+#define PROC_CON_1 5
+#define PROC_CON_2 6
+
 #define MPU_ADDR 0x68
 #define QMC_ADDR 0x0D
 #define BME280_ADDR 0x76
